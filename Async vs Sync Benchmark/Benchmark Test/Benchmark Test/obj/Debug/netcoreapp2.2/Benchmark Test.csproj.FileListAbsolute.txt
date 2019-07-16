@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\bin\Debug\netcoreapp2.2\Benchmark Test.deps.json
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\bin\Debug\netcoreapp2.2\Benchmark Test.runtimeconfig.json
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\bin\Debug\netcoreapp2.2\Benchmark Test.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\bin\Debug\netcoreapp2.2\Benchmark Test.dll
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\bin\Debug\netcoreapp2.2\Benchmark Test.pdb
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\obj\Debug\netcoreapp2.2\Benchmark Test.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\obj\Debug\netcoreapp2.2\Benchmark Test.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\obj\Debug\netcoreapp2.2\Benchmark Test.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\obj\Debug\netcoreapp2.2\Benchmark Test.dll
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\obj\Debug\netcoreapp2.2\Benchmark Test.pdb
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Benchmark Test\Benchmark Test\obj\Debug\netcoreapp2.2\Benchmark Test.csprojAssemblyReference.cache

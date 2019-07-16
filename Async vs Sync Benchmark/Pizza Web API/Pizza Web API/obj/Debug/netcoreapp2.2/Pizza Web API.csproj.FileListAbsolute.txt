@@ -1,0 +1,28 @@
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.RazorAssemblyInfo.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.RazorAssemblyInfo.cs
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.deps.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.runtimeconfig.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.dll
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.pdb
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.dll
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\Tams-Pizzeria-.NET-Core-Web-App\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.pdb
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.deps.json
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.runtimeconfig.json
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.dll
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\bin\Debug\netcoreapp2.2\Pizza Web API.pdb
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.RazorAssemblyInfo.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.RazorAssemblyInfo.cs
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.dll
+C:\Users\Thomas\Documents\Computer Science\C# Resources\Async vs Sync Benchmark\Pizza Web API\Pizza Web API\obj\Debug\netcoreapp2.2\Pizza Web API.pdb
