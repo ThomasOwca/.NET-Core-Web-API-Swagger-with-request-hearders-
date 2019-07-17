@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -28,6 +29,10 @@ namespace Pizza_Web_API.Controllers
             // Get request header(s) in C# .NET Core.
             string userName = Request.Headers["Username"];
             string fullName = Request.Headers["Fullname"];
+
+            var headers = Request.Headers.Values;
+
+            var username = User.Identity.Name;
 
             var results = await _context.Orders
                 .Include(order => order.Status)

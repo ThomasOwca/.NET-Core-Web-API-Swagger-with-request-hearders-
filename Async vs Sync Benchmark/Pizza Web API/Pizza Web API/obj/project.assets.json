@@ -13046,11 +13046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Computer Science\\C# Resources\\Async vs Sync Benchmark\\Pizza Web API\\Pizza Web API\\Pizza Web API.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Computer Science\\C# Resources\\.NET-Core-Web-API-Swagger-with-request-hearders-\\Async vs Sync Benchmark\\Pizza Web API\\Pizza Web API\\Pizza Web API.csproj",
       "projectName": "Pizza Web API",
-      "projectPath": "C:\\Users\\Thomas\\Documents\\Computer Science\\C# Resources\\Async vs Sync Benchmark\\Pizza Web API\\Pizza Web API\\Pizza Web API.csproj",
+      "projectPath": "C:\\Users\\Thomas\\Documents\\Computer Science\\C# Resources\\.NET-Core-Web-API-Swagger-with-request-hearders-\\Async vs Sync Benchmark\\Pizza Web API\\Pizza Web API\\Pizza Web API.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas\\Documents\\Computer Science\\C# Resources\\Async vs Sync Benchmark\\Pizza Web API\\Pizza Web API\\obj\\",
+      "outputPath": "C:\\Users\\Thomas\\Documents\\Computer Science\\C# Resources\\.NET-Core-Web-API-Swagger-with-request-hearders-\\Async vs Sync Benchmark\\Pizza Web API\\Pizza Web API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

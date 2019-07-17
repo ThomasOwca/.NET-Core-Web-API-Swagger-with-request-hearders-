@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,6 +31,24 @@ namespace Pizza_Web_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            // Add authentication here.
+            services.AddAuthentication(options =>
+            {
+
+                options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = OpenIdConnectDefaults.AuthenticationScheme;
+            })
+            .AddCookie()
+            .AddOpenIdConnect(options =>
+            {
+                options.Authority = "http://localhost:5000";
+                options.ClientId = "testclient";
+                options.ClientSecret = "secret";
+                options.ResponseType = "code id_token";
+                options.RequireHttpsMetadata = false;
+                options.GetClaimsFromUserInfoEndpoint = true;
+            });
 
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
@@ -59,6 +79,9 @@ namespace Pizza_Web_API
             {
                 c.SwaggerEndpoint("/swagger/v1.0/swagger.json", "My Demo API (V 1.0)");
             });
+
+            // Use authentication here.
+            app.UseAuthentication();
 
             app.UseMvc();
         }
